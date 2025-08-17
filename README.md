@@ -12,7 +12,7 @@ The goal of this project is to strengthen my frontend fundamentals while buildin
 
 ## Live Demo
 View the project on GitHub Pages:  
-👉 
+👉 https://sriniharika20.github.io/web-development/
 
 ## Tech Stack 
 - **HTML5**  
