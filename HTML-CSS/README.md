@@ -1,4 +1,4 @@
-multi-page website built with HTML and CSS
+Multi-page website built with HTML and CSS
 
 featuring:
 Login Page → form with Name, Email, Password → navigates to Dashboard.
