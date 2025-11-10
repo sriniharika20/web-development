@@ -1,4 +1,26 @@
 # web-development
+
+## Flipkart Clone
+
+A responsive **Flipkart clone** website built using **HTML, CSS, and Bootstrap**. This project replicates the core layout and design of Flipkart, including the homepage, product listings, navigation bar, and footer. The site is fully responsive, adapting smoothly to different screen sizes.
+
+🔗 **Live Demo:** (https://sriniharika20.github.io/web-development/flipkart-clone/)
+
+**Technologies Used:**
+
+* **HTML5** – Structure and content
+* **CSS3** – Styling and layout
+* **Bootstrap 5** – Responsive design and components
+
+**Features:**
+
+* Responsive navigation bar
+* Product listing section
+* Footer with links and information
+* Modern UI inspired by Flipkart
+
+
+
 # HTML-CSS[Multi-Page Website]
 This is a **practice project** where I recreated a simple signup page inspired by **LeetCode**, using only **HTML** and **CSS**.  
 The goal of this project is to strengthen my frontend fundamentals while building clean and responsive layouts.
@@ -15,6 +37,7 @@ CSS styling: layout, alignment, borders, colors, flexbox.
 How to Run
 Open index.html (Login Page) in a browser.
 Enter details → click Submit → explore the dashboard and other pages.
+
 ## Live Demo
 👉
 
