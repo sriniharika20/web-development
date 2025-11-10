@@ -1,0 +1,63 @@
+body {
+  background: #f5f7fb;
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+
+.topbar {
+  background: #2874f0;
+}
+
+
+
+.hero .product-img {
+  width: 100%;          
+  max-width: 1000px;    
+  height: auto;         
+  display: block;       
+  margin: 20px auto;    
+  border-radius: 10px; 
+}
+
+
+.hero {
+  background: url('https://miro.medium.com/v2/resize:fit:1400/1*ZB8Hq0zKQ5O6Gi0G6q8Icg.jpeg') center/cover no-repeat;
+  color: #111;
+  min-height: 350px;
+}
+.btn-pink {
+  background-color: #ff3b6f;
+  color: #fff;
+  border-radius: 30px;
+}
+.btn-pink:hover {
+  background-color: #e83263;
+}
+
+
+.product-card {
+  border: none;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+.product-card:hover {
+  background-color: #dff0ff; /* baby blue */
+  transform: translateY(-6px);
+}
+.product-img {
+  height: 180px;
+  object-fit: contain;
+}
+.price {
+  color: #008000;
+  font-weight: 600;
+}
+
+
+footer {
+  background-color: #222;
+  color: #fff;
+  font-size: 0.9rem;
+}
