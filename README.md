@@ -2,15 +2,18 @@
 
 ## Flipkart Clone
 
-A responsive **Flipkart clone** website built using **HTML, CSS, and Bootstrap**. This project replicates the core layout and design of Flipkart, including the homepage, product listings, navigation bar, and footer. The site is fully responsive, adapting smoothly to different screen sizes.
+A responsive Flipkart clone website built using HTML, CSS, Bootstrap, and enhanced with JavaScript.
+This project replicates the layout and design of Flipkart, including the homepage, product cards, navigation bar, and footer.
+The site is fully responsive and works smoothly on all screen sizes.
 
-🔗 **Live Demo:** (https://sriniharika20.github.io/web-development/flipkart-clone/)
+🔗 **Live Demo:** 
 
 **Technologies Used:**
 
 * **HTML5** – Structure and content
 * **CSS3** – Styling and layout
 * **Bootstrap 5** – Responsive design and components
+* JavaScript  – Added interactivity
 
 **Features:**
 
@@ -18,6 +21,12 @@ A responsive **Flipkart clone** website built using **HTML, CSS, and Bootstrap**
 * Product listing section
 * Footer with links and information
 * Modern UI inspired by Flipkart
+
+  **JavaScript Features:**
+*Add-to-cart counter (without leaving the page)
+*Toast popup notification (“Item added to cart”)
+*Disabled all external product links (cards stay inside website)
+*Smooth cart update on click
 
 
 
